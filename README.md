@@ -35,7 +35,6 @@ Se evaluaron técnicas de:
 El sistema permite realizar:
 
 * **Clasificación binaria:** determinar si un flujo corresponde a tráfico benigno o a un ataque.
-* **Clasificación multiclase:** identificar el tipo específico de ataque presente en el tráfico.
 
 ---
 
