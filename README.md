@@ -173,4 +173,4 @@ https://www.kaggle.com/code/zulfianarahmi100/cic-ids-2017
 
 **Universidad:** Universidad Industrial de Santander (UIS)
 
-**Semestre:** 2026
+**Semestre:** 2026-1
